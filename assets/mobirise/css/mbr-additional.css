@@ -50,29 +50,6 @@
 #features1-x .btn {
   font-family: 'Roboto', sans-serif;
 }
-#dropdown-menu-9 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-9 .nav .link,
-#dropdown-menu-9 .dropdown-item {
-  font-size: 1em;
-  color: #000000;
-}
-#dropdown-menu-9 .navbar,
-#dropdown-menu-9 .dropdown-menu {
-  background: #ffffff;
-}
-#dropdown-menu-9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-9 .dropdown-menu a:hover,
-#dropdown-menu-9 .dropdown-menu a:focus {
-  background: #f5f5f5;
-}
-#dropdown-menu-9 .navbar-toggler {
-  color: #000000;
-}
-#menu-l .navbar-toggler {
-  color: #000;
-}
 
 
 
